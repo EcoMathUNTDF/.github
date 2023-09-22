@@ -1,15 +1,8 @@
----
-output:
-  word_document: default
-  html_document: default
----
 
-# Denominación del curso
-
-## Sistemas Complejos en Ecología, Análisis y modelos utilizando el lenguaje Julia
+# Sistemas Complejos en Ecología, Análisis y modelos utilizando el lenguaje Julia
 <!-- # Curso de Ecología Matemática utilizando el lenguaje Julia -->
 
-# Docentes
+## Docentes
 
 Dr. Leonardo Saravia
 Dra. Rebeca de la Fuente
@@ -18,7 +11,7 @@ Dra. Rebeca de la Fuente
 
 Dr. Leonardo Saravia
 
-# Carga horaria
+## Carga horaria
 
 El curso tiene una carga horaria de 35 hs.
 
